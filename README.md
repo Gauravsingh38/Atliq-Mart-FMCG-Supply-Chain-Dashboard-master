@@ -6,9 +6,7 @@
 * Challenge Link -> https://codebasics.io/event/codebasics-resume-project-challenge
 * Codebasics YouTube Channel -> https://www.youtube.com/c/codebasics
 * YouTube Video Link -> https://www.youtube.com/watch?v=gQVIAlXLhjc
-* Linkedin post -> https://www.linkedin.com/feed/update/urn:li:activity:6991421584414584833/
-* My Linkedin profile -> https://www.linkedin.com/in/argha-nath-1a1b29192/
-* Interactive Dashboard hosted link -> https://www.novypro.com/project/atliq-mart-fmcg-supply-chain
+
 
 
 ## My Dashboard/Report
@@ -45,15 +43,7 @@
 ![C2 Stakeholder Chat_Business Review Meeting_00005](https://user-images.githubusercontent.com/54589605/198040263-b03fb126-d999-4e32-b7fc-80220cf33dfa.jpg)
 
 
-## Submission Certificate
 
-* Download Link -> https://codebasics.io/certificate/CH-1-5-22515
-
-[CH-1-5-22515.pdf](https://github.com/arghanath007/Atliq-Mart-FMCG-Supply-Chain-Dashboard/files/10168041/CH-1-5-22515.pdf)
-
-![image](https://github.com/arghanath007/Atliq-Mart-FMCG-Supply-Chain-Dashboard/assets/54589605/96168554-6e03-478f-85ae-0440a7e2271a)
-
-* Certificate.
 
 
 
